@@ -3,7 +3,7 @@
 **SDIY building block for clean CV-to-ADC conversion with potentiometer bias.**  
 This tiny PCB lets you mix a unipolar 0–3.3V CV signal with a DC bias from a panel-mounted potentiometer, buffer it with a low-noise op-amp, and send it cleanly into your microcontroller’s ADC—perfect for applications like linear FM, CV-controlled modulation depths, and more.
 
-![Schematic](./biased-CV-input.svg)
+![Schematic2](./biased-CV-input.svg)
 
 ## 🔧 Features
 
