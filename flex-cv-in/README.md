@@ -1,7 +1,7 @@
 # Patch Bits: flex-cv-in
-![Top](./flex-cv-in-top.png)
-![Bottom](./flex-cv-in-btm.png)
-![Schematic](./flex-cv-in-schematic.png)
+![Top](./images/flex-cv-in-top.png)
+![Bottom](./images/flex-cv-in-btm.png)
+![Schematic](./images/flex-cv-in-schematic.png)
 
 This board solves one big problem, and takes care of a handful of smaller ones along the way.
 
