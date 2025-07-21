@@ -22,6 +22,10 @@ A growing collection of hardware abstractions for recurring problems in mixed-si
 
 For my personal builds, I decided some time ago to eschew Eurorack dual-rail power supplies and 10Vpp bipolar signals in favor of unipolar 0-3.3V DC-coupled MCU-friendly signals. I did this both out of frustration and laziness. My aim is to prototype quickly, learn in the process, and most of all, have fun. I found myself spending more time designing and debugging analog pre- and post- stages than I did designing the synths themselves. Some may argue that that is an important part of synth design; I can't argue. But, I am driven by my interests. I'm interested in the joys of creativity and innovation, not in the stoic labor of conformity.
 
+These helpers are designed to be compatible with both 3.3V and 5V systems. They may work with other single-rail voltages too (check the datasheets of the individual components).
+
+Adapting to dual-rail supplies would require significant rework in most cases. You are, of course, free to try.
+
 ---
 
 ## Use it
