@@ -1,0 +1,55 @@
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 674:Plugin executed on: 'win32'
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 675:Plugin executed with python version: '3.11.5 (main, Jun 15 2025, 06:45:45) [MSC v.1942 64 bit (AMD64)]'
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 9.0.3
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 4.0.1
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x0000020B2E5644C0>
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R2 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U1 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R5 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R7 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R6 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C1 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R8 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW1 on root level
+07-19 06:47:10 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 717:Reference footprint='R1'
+07-19 06:47:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 858:Reference designator is: R
+07-19 06:47:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 859:Reference number is: 1
+07-19 06:47:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 891:Sorted and filtered list:
+['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8']
+07-19 06:47:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 376:wx.Colour(240, 240, 240, 255)
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 507:'6'
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 559:Preparing config for reference circular
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 573:Saving config file
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 575:Saved the config file
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 929:Footprints to place:
+['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8']
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 359:Starting placing with circular layout
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 369:reference footprint position at: VECTOR2I(146500000, 77000000)
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 374:rotation center at: (146500000, 83000000.0)
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.place_footprints 506:Text of: R1 has property "Keep upright" rotation might not look as intended
+07-19 06:47:15 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 944:Placing complete

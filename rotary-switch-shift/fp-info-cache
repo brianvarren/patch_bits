@@ -1,4 +1,4 @@
-157543766
+26532046811728819
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105601,3 +105601,423 @@ Varistor VF
 0
 2
 2
+elemental-kicad-footprints
+LED_D5.0mm_Flat_Clear
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+elemental-kicad-footprints
+L_Sunlord_MWSA0402S_4.4x4.2mm
+Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm
+inductor Sunlord smd
+0
+2
+2
+elemental-kicad-footprints
+Seeeduino XIAO-RP2040-THT
+
+
+0
+20
+20
+elemental-kicad-footprints
+dummy-panel-footprint
+
+
+0
+0
+0
+elemental_IC
+74HC595N_DIP-16_Socketed
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil LongPads
+0
+16
+16
+elemental_LED
+LED_5mm_FlatTop_Diffused
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+2
+elemental_LED
+LED_D3.0mm_FlatTop
+LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf
+LED Round FlatTop diameter 3.0mm 2 pins
+0
+2
+2
+elemental_capacitor_THT
+CP_Radial_D5.0mm_P2.00mm
+CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor
+CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor
+0
+2
+2
+elemental_capacitor_THT
+C_Disc_100nF_Ceramic
+C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf
+C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor
+0
+2
+2
+elemental_connector
+DNU_Pins_2x05_2.54mm_TH_EuroPower_Shrouded
+Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC box header THT 2x05 2.54mm double row
+0
+10
+10
+elemental_connector
+ModuleNetTie_0.4mm_Signal
+Wire Pad, Square, SMD Pad,  1mm x 2mm,
+MesurementPoint Square SMDPad 1mmx2mm 
+0
+1
+1
+elemental_connector
+ModuleNetTie_0.5mm_Power
+Wire Pad, Square, SMD Pad,  1mm x 2mm,
+MesurementPoint Square SMDPad 1mmx2mm 
+0
+1
+1
+elemental_connector
+Pins_2x05_2.54mm_TH_EuroPower_Shrouded
+Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC box header THT 2x05 2.54mm double row
+0
+10
+10
+elemental_connector
+TerminalBlock_KF301_1x03_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-3, 3 pins, pitch 5mm, size 15x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-3 pitch 5mm size 15x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+elemental_connector
+USB_C_Receptacle_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P
+https://datasheet.lcsc.com/lcsc/2009111434_Shenzhen-Kinghelm-Elec-KH-TYPE-C-16P_C709357.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+elemental_display
+7SegmentLED_3611AS_0.36_Generic
+
+
+0
+10
+10
+elemental_display
+7SegmentLED_5161AS_0.56_Generic
+
+7Segment LED 5161AS
+0
+10
+10
+elemental_display
+OLED_SSD1306_I2C_128x64
+
+
+0
+4
+4
+elemental_element
+PWM_Output_With_LED
+
+
+0
+0
+0
+elemental_jack
+EighthInch_PJ398SM
+
+
+0
+3
+3
+elemental_jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
+elemental_microcontroller
+Arduino_Nano_3.0_Socketed
+Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino Nano
+0
+30
+30
+elemental_microcontroller
+RP2040 Core Board TYPE-C 16MB
+
+
+0
+40
+40
+elemental_microcontroller
+RP2040-Zero_FullPins
+
+
+0
+23
+23
+elemental_microcontroller
+RP2040-Zero_SidePins
+
+
+0
+18
+18
+elemental_microcontroller
+RPi_Pico_SMD
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+43
+43
+elemental_microcontroller
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+elemental_panel
+_FP_7SegmentLED_3611AS_0.36_Generic
+
+
+0
+10
+0
+elemental_panel
+_FP_7SegmentLED_5161AS_0.56_Generic
+
+7Segment LED 5161AS
+0
+10
+0
+elemental_panel
+_FP_EighthInch_PJ398SM
+
+
+0
+3
+0
+elemental_panel
+_FP_LED_5mm_FlatTop_Diffused
+LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf
+LED diameter 5.0mm 2 pins
+0
+2
+0
+elemental_panel
+_FP_LED_D3.0mm_FlatTop
+LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf
+LED Round FlatTop diameter 3.0mm 2 pins
+0
+2
+0
+elemental_panel
+_FP_LED_Tactile_Pushbutton_SPST_Cap_5.4mm
+https://www.aliexpress.us/item/3256803413048970.html?spm=a2g0o.order_list.order_list_main.39.4d771802rrJu4W&gatewayAdapt=glo2usa&_randl_shipto=US
+LED Tactile Pushbutton Switch
+0
+6
+0
+elemental_panel
+_FP_OLED_SSD1306_I2C_128x64
+
+
+0
+4
+0
+elemental_panel
+_FP_Pot_9mm_Knurl_NoDet_RV09_ElCheapo
+
+
+0
+5
+0
+elemental_panel
+_FP_Pot_10mmKnob_StdScale
+
+
+0
+5
+0
+elemental_panel
+_FP_Pot_13mmKnob_StdScale
+
+
+0
+5
+0
+elemental_panel
+_FP_Pot_15mmKnob_StdScale
+
+
+0
+5
+0
+elemental_panel
+_FP_Pot_17mmKnob_StdScale
+
+
+0
+5
+0
+elemental_panel
+_FP_Rail_Mounting_Slot
+
+
+0
+0
+0
+elemental_panel
+_FP_RotaryEncoder_EC11_Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+0
+elemental_panel
+_FP_Switch_Rotary_SR16_2P4T_16mm
+
+
+0
+10
+0
+elemental_panel
+_FP_Switch_Toggle_SPDT_Mini_SolderLug
+
+
+0
+3
+0
+elemental_potentiometer
+Pot_9mm_Knurl_NoDet
+
+
+0
+5
+5
+elemental_potentiometer
+Pot_9mm_Knurl_NoDet_Horiz
+111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer horizontal Alps RK09K Single Snapin
+0
+5
+4
+elemental_potentiometer
+Pot_9mm_Knurl_NoDet_Horiz_2
+1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Single
+0
+3
+3
+elemental_potentiometer
+RotaryEncoder_EC11_Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+elemental_potentiometer
+Trim_RM-065_Vertical
+Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf
+Potentiometer Trimmer RM-065
+0
+3
+3
+elemental_regulator
+CJ431
+SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+3
+3
+elemental_regulator
+TPS5450
+HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOP SO
+0
+20
+9
+elemental_resistor_THT
+R_THT_Vertical
+Resistor, Axial_DIN0207 series, Axial, Vertical, pin pitch=2.54mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Vertical pin pitch 2.54mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+elemental_switch
+Button_LED_PB61303
+
+
+0
+2
+2
+elemental_switch
+Button_Tactile_SMD_XKB_TS1187A
+
+
+0
+4
+4
+elemental_switch
+Button_Tactile_THT_Omron_B3F-10xx
+SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+Omron B3F-10xx
+0
+4
+2
+elemental_switch
+Button_Tactile_TS342A2P-WZ
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+elemental_switch
+LED_Tactile_Pushbutton_SPST_Cap_5.4mm
+https://www.aliexpress.us/item/3256803413048970.html?spm=a2g0o.order_list.order_list_main.39.4d771802rrJu4W&gatewayAdapt=glo2usa&_randl_shipto=US
+LED Tactile Pushbutton Switch
+0
+6
+6
+elemental_switch
+Switch_Rotary_SR16_1P8T_16mm
+
+
+0
+9
+9
+elemental_switch
+Switch_Rotary_SR16_2P4T_16mm
+
+
+0
+10
+10
+elemental_switch
+Switch_Toggle_SPDT_Mini_SolderLug
+
+
+0
+3
+3
+elemental_vactrol
+Vactrol_DIY
+
+vactrol
+0
+4
+4

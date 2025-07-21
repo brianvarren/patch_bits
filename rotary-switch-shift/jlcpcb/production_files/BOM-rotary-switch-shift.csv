@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC,Quantity
+10k,R2,R_0805_2012Metric,,1
+74HC165,U1,DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm,,1
+10k,R5,R_0805_2012Metric,,1
+10k,R1,R_0805_2012Metric,,1
+10k,R7,R_0805_2012Metric,,1
+10k,R6,R_0805_2012Metric,,1
+10k,R3,R_0805_2012Metric,,1
+10k,R4,R_0805_2012Metric,,1
+100nF,C1,C_0805_2012Metric,,1
+10k,R8,R_0805_2012Metric,,1

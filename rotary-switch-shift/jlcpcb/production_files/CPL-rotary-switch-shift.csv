@@ -1,0 +1,11 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0805_2012Metric,133.0,-69.5,-45.0,top
+R1,10k,R_0805_2012Metric,145.5,-80.5,-45.0,top
+R2,10k,R_0805_2012Metric,148.0,-75.0,0.0,top
+R3,10k,R_0805_2012Metric,145.75,-70.5,45.0,top
+R4,10k,R_0805_2012Metric,141.0,-66.25,90.0,top
+R5,10k,R_0805_2012Metric,134.5,-68.0,135.0,top
+R6,10k,R_0805_2012Metric,132.0,-75.0,-90.0,top
+R7,10k,R_0805_2012Metric,134.5,-80.5,-135.0,top
+R8,10k,R_0805_2012Metric,140.0,-82.5,0.0,top
+U1,74HC165,DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm,139.75,-71.25,45.0,top
