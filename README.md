@@ -1,7 +1,6 @@
 # patch_bits
 
-**SDIY building blocks.**  
-Tiny utility boards for my digital-first DIY synth projects. These are designed as modular building blocks that make quick prototyping fun and easy.
+**SDIY building blocks.** Tiny helper boards that that make quick prototyping fun and easy.
 
 ---
 
