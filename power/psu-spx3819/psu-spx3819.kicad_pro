@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -63,12 +63,7 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [
-        [
-          "starved_thermal|144968000|85071500|2d042e96-c449-4761-b9c1-01fad175e076|09b7069a-11e3-452a-8b1d-6e25cf8ff2be|F.Cu",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -157,7 +152,7 @@
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
           "td_onsmdpad": true,
-          "td_ontrackend": true,
+          "td_ontrackend": false,
           "td_onvia": true
         }
       ],
@@ -259,12 +254,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "lib_symbol_mismatch|3429000|965200|b99d89f4-e3a4-4d64-bbdd-ccc0b68ec90e|00000000-0000-0000-0000-000000000000|||",
-        ""
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -488,7 +478,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mixer-main.kicad_pro",
+    "filename": "psu-spx3819.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -609,7 +599,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "psu-spx3819.step",
       "svg": "",
       "vrml": ""
     },
@@ -760,7 +750,7 @@
   },
   "sheets": [
     [
-      "373d7faf-ba8c-42a9-8b07-dc13b3d0290f",
+      "2bb0a675-5621-44d4-a0a1-d8555d476e5b",
       "Root"
     ]
   ],

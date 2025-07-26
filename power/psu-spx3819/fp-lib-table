@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "psu-spx3819_footprints")(type "KiCad")(uri "${KIPRJMOD}/psu-spx3819_footprints.pretty")(options "")(descr ""))
+)
