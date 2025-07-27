@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2025-07-27 06:48
+### Printed by checking_3D_models plugin
+Board file: /media/brianvarren/Storage/Dropbox/_brian-varren/patch_bits/mixer-4ch-mono/mixer-main/mixer-main.kicad_pcb
+3D missing models written to:
+/media/brianvarren/Storage/Dropbox/_brian-varren/patch_bits/mixer-4ch-mono/mixer-main/mixer-main_missing3Dmodels.txt
+-------
+('J1', '/usr/share/kicad/3dmodels/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-17.step')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']

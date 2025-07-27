@@ -1,0 +1,1 @@
+[('J1', '/usr/share/kicad/3dmodels/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-17.step')]
