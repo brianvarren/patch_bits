@@ -1,6 +1,7 @@
 Comment,Designator,Footprint,LCSC,Quantity
 100k,R4,R_0805_2012Metric,,1
 100nF,C3,C_0805_2012Metric,,1
+HDR,J2,PinSocket_1x03_P2.54mm_Vertical,,1
 10uF,C1,C_0805_2012Metric,,1
 100k,R5,R_0805_2012Metric,,1
 100k,R2,R_0805_2012Metric,,1
